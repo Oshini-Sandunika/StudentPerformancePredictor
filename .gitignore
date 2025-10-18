@@ -1,0 +1,36 @@
+# ---------------- Python ----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# ---------------- Models & Outputs ----------------
+model.pkl
+scaler.pkl
+predictions.csv
+last_retrain.txt
+
+# ---------------- Virtual Environment ----------------
+venv/
+.env
+.env.*
+
+# ---------------- IDE / Editor ----------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ---------------- OS Files ----------------
+.DS_Store
+Thumbs.db
+
+# ---------------- Jupyter Notebook ----------------
+.ipynb_checkpoints/
+
+# ---------------- Others ----------------
+*.tmp
+*.bak
+*.swp
