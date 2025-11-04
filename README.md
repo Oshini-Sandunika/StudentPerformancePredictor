@@ -38,8 +38,6 @@ A lightweight Streamlit app that predicts student exam performance from study ha
 
   └─ StudentPerformanceFactors.csv
 
-README.md
-
 requirements.txt
 
 Make sure model.pkl and scaler.pkl are in the project root (or update paths in app.py) before running.
