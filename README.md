@@ -128,4 +128,3 @@ Thanks to my project teammates and friends for their help and support during dev
 
 Repository: https://github.com/Oshini-Sandunika/StudentPerformancePredictor.git
 
-License
